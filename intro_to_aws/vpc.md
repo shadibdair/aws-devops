@@ -27,4 +27,4 @@ Finally, you will create route table entires to allow communication between subn
 
 ### 📌 Result
 
-attach screenshot
+![vpc](https://user-images.githubusercontent.com/43513994/223458261-f3d7fe8e-0110-4e14-aec6-f73050db4557.png)
