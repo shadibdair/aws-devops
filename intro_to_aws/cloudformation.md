@@ -1,5 +1,7 @@
 ## 🏎️ Lab CloudFormation
 
+![Screenshot 2023-03-08 at 11 36 00](https://user-images.githubusercontent.com/43513994/223676888-cbfbc575-1642-4ac2-9b2a-bd40fea7e2da.png)
+
 ### 🐾 Steps
 
 1- Create a CloudFormation stack named **cfnlab**
@@ -61,3 +63,10 @@ Save the file.
     }
 }
 ```
+
+### 🧛🏻 Result
+
+
+![Screenshot 2023-03-08 at 11 26 44](https://user-images.githubusercontent.com/43513994/223676287-5ce04696-81b8-4775-b221-2b478575d04c.png)
+
+![Screenshot 2023-03-08 at 11 24 53](https://user-images.githubusercontent.com/43513994/223676259-61d70aa1-7e9b-4b54-a145-babf65a83615.png)
