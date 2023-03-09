@@ -1,0 +1,22 @@
+## 👨🏻‍💻 Build a K8S Cluster
+
+- 🔵 Created 3️⃣ Servers
+    - Server 1 - Kube Master
+    - Server 2 - Kube Node 1
+    - Server 3 - Kube Node 2
+- 🔴 Installed Docker
+    - Docker is the container runtime that we will be using.
+    - A container runtime is the software that actually runs the containers. K8S supports several other container runtimes.
+    - To see the commands for installing Dcoker check file "install_docker.sh"
+- 🟡 Installed Kubeadm Kubelet, and Kubectl
+    - Need to install three things on each of our servers include Docker:
+        - Kubeadm: This is a tool which automates a large portion of the process of setting up a cluster, it will make our job much easier.
+        - Kubelet: The essential components of k8s that handles running containers on a node, every server that will be running containers needs kubelet
+        - Kubectl: Command-line tool for interacting with cluster once it is up, we will use it to manage the cluster.
+        - To see the commands for installing k8s components check file "install_k8s_components.sh"
+- 🟢 Bootstrapping the Cluster
+    - Initialize the cluster on the Kube Master server:
+        - To run the requested command check file "bootsrap_cluster_kubemaster.sh"
+- 🟤 Configuring Networking with Flannel
+    - K8S supports a variety of networking solutions to provide networking between containers
+    - Follow the file "configure_networking_flannel.sh"
