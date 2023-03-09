@@ -9,4 +9,10 @@
     - Use containerd for your container runtime.
     - The cluster should have one control plane node and two worker nodes.
     - Use the Calico networking add-on to provide networking for the cluster.
-- 🐞 Check the "installation.sh"
+
+---
+
+### 🐾 Steps 
+- 1️⃣ Check the "installation.sh"
+- 2️⃣ Check the "initialize_cluster.sh"
+- 3️⃣ Check the "Install_calico_network.sh"
