@@ -16,3 +16,4 @@
 - 1️⃣ Check the "installation.sh"
 - 2️⃣ Check the "initialize_cluster.sh"
 - 3️⃣ Check the "Install_calico_network.sh"
+- 4️⃣ Check the "join_worker_nodes_cluster.sh"
