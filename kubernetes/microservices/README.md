@@ -79,3 +79,11 @@ Scale up the MongoDB deployment to two replicas instead of just one.
     ```
 
     After a few moments, the number of available replicas should be 2.
+    
+    
+----
+
+## Robot Shop website
+
+<img width="1662" alt="Screenshot 2023-03-12 at 17 43 47" src="https://user-images.githubusercontent.com/43513994/224555957-01dbdaf3-0322-42d0-836c-88e12ce6a3d9.png">
+
