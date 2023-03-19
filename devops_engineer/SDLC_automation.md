@@ -9,3 +9,13 @@
 *✍🏻 We can do it with CodePipeline*
 
 ---
+
+### Learned:
+
+- CodeCommit:
+    - Actions
+    - Merging/Branches
+    - Data Security
+
+- CodeBuild:
+    - 1
